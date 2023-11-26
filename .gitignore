@@ -1,0 +1,8 @@
+.idea
+data/*.csv
+R/.Rproj.user
+R/.RData
+R/.Rhistory
+
+R/Bglobal.Rproj
+.env
